@@ -17,6 +17,9 @@ int fun_sub(int a, int b)
         return 250;
 }
 
+int fun_mul(int a, int b) {
+    return a*b;
+}
 int main()
 {
     printf("\n Hello World");
